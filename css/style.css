@@ -498,7 +498,7 @@ a {
     color: #fff;
     margin-bottom: 30px;
     text-transform: uppercase; }
-    @media (min-width: 768px) {
+    @media (min-width: 780px) {
       .site-blocks-cover h1 {
         font-size: 70px; } }
   .site-blocks-cover p {
